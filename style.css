@@ -1,0 +1,17 @@
+#pizza
+{
+    height:200px;
+    border-radius:10px;
+}
+
+.small
+{
+    height:50px;
+    border-radius:20px;
+}
+
+body
+{
+background-color: rgb(255, 174, 242);
+
+}
